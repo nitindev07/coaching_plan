@@ -10,7 +10,7 @@ const Charts = () => {
         <div className='bg-white hover:bg-slate-200  mx-10 md:mx-0 rounded-2xl shadow-xl '>
             <img src={logo} alt="" className='mx-auto w-[60px] pt-7' />
             <h1 className='font-bold text-[25px] my-3'>Web Development</h1>
-            <amount className='font-bold text-red-500 text-[30px]'>$140</amount>
+            <p className='font-bold text-red-500 text-[30px]'>$140</p>
             <p className=' p-3'>Lorem ipsum dolor sit amet.</p><hr className='w-[250px] border-black mx-auto' />
             <p className=' p-3'>Lorem, ipsum dolor sit ametjskja</p><hr className='w-[250px] border-black mx-auto'/>
             <p className=' p-3'>Lorem ipsum dolor sit amet.</p>
@@ -19,7 +19,7 @@ const Charts = () => {
         <div className='bg-white hover:bg-slate-200  my-14 md:my-0 mx-10 md:mx-0 rounded-2xl shadow-xl'>
         <img src={logo} alt="" className='mx-auto w-[60px] pt-7' />
         <h1 className='font-bold text-[25px] my-3'>Ethical Hacking</h1>
-            <amount className='font-bold text-red-500 text-[30px]'>$140</amount>
+            <p className='font-bold text-red-500 text-[30px]'>$140</p>
             <p className=' p-3'>Lorem ipsum dolor sit amet.</p><hr className='w-[250px] border-black mx-auto' />
             <p className=' p-3'>Lorem, ipsum dolor sit ametjskja</p><hr className='w-[250px] border-black mx-auto'/>
             <p className=' p-3'>Lorem ipsum dolor sit amet.</p>
@@ -28,7 +28,7 @@ const Charts = () => {
         <div className='bg-white hover:bg-slate-200   mx-10 md:mx-0 rounded-2xl shadow-xl'>
         <img src={logo} alt="" className='mx-auto w-[60px] pt-7' />
         <h1 className='font-bold text-[25px] my-3'>Digital Marketing</h1>
-            <amount className='font-bold text-red-500 text-[30px]'>$140</amount>
+            <p className='font-bold text-red-500 text-[30px]'>$140</p>
             <p className=' p-3'>Lorem ipsum dolor sit amet.</p><hr className='w-[250px] border-black mx-auto' />
             <p className=' p-3'>Lorem, ipsum dolor sit ametjskja</p><hr className='w-[250px] border-black mx-auto'/>
             <p className=' p-3'>Lorem ipsum dolor sit amet.</p>
